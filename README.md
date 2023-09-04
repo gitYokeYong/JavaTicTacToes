@@ -1,2 +1,2 @@
 # JavaTicTacToes
-Learning about Javascript with Project Tic Tac Toes
+Learning about Javascript Project Tic Tac Toes
