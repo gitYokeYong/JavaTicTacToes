@@ -83,3 +83,23 @@ body{
 }
 
 
+ /* Style the button */
+ button {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding to make the button larger */
+    border: none; /* Remove the button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    font-size: 16px; /* Font size */
+}
+
+/* Add hover effect */
+button:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+}
+
+
+   
+     
+
